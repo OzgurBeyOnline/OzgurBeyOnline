@@ -7,7 +7,6 @@
 Building **web, mobile, 3D and AI-powered software** with an infrastructure-aware engineering mindset.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Özgür_Yiğit_Aşit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-a%C5%9Fit-a591bb19a/)
-[![GitHub](https://img.shields.io/badge/GitHub-OzgurBeyOnline-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OzgurBeyOnline)
 [![Email](https://img.shields.io/badge/Email-yigitasit2000%40gmail.com-B45309?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yigitasit2000@gmail.com)
 [![CV](https://img.shields.io/badge/CV-View_PDF-D97706?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Ozgur_Yigit_Asit_CV.pdf)
 
