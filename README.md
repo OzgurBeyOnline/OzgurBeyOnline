@@ -200,17 +200,6 @@ Joint research with [Gökçen Dilek Alak](https://github.com/gokcendilek).
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OzgurBeyOnline&show_icons=true&hide_border=true&theme=transparent&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgurBeyOnline&layout=compact&hide_border=true&theme=transparent&title_color=F59E0B&text_color=9CA3AF" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Connect
