@@ -158,14 +158,14 @@ A scroll-driven digital restaurant menu concept combining responsive interaction
 </td>
 <td width="50%" valign="top">
 
-### QR-Based Restaurant Web Menu
+### Restaurant Web Menu Showcase
 **Responsive customer-facing web experience**
 
-A mobile-first QR menu concept designed around usability, responsive layouts, menu discovery, and branded restaurant presentation.
+A mobile-first restaurant menu interface focused on product discovery, category navigation, product detail UX, branded presentation, and responsive interaction.
 
-**Tech:** React · TypeScript · Responsive Web Design
+**Tech:** React · TypeScript · React Router · Framer Motion · Vite
 
-**Repository:** Coming soon
+[View Showcase →](https://github.com/OzgurBeyOnline/Web-Menu-Showcase)
 
 </td>
 </tr>
