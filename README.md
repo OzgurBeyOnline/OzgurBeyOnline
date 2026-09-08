@@ -153,7 +153,7 @@ A scroll-driven digital restaurant menu concept combining responsive interaction
 
 **Tech:** React · TypeScript · Three.js · React Three Fiber · Blender
 
-**Repository:** Coming soon
+[View Repository →](https://github.com/OzgurBeyOnline/3D-Menu-Web)
 
 </td>
 <td width="50%" valign="top">
